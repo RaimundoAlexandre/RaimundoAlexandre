@@ -9,7 +9,6 @@
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=RaimundoAlexandre&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={RaimundoAlexandre}&theme=blue-green)
 ## Tecnologias que eu uso no meu dia ###
 
 <div style="display: inline_block"><br/>
