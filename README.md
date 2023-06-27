@@ -6,8 +6,15 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://startpython3.blogspot.com/)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/acg.gamer/)
 
+<div>
+  <a href="https://github.com/RaimundoAlexandre">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaimundoAlexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaimundoAlexandre&layout=compact&langs_count=7&theme=react" />
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=RaimundoAlexandre&show_icons=true&theme=radical)
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  ![Snake animation](https://github.com/ellen2121/RaimundoAlexandre/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 ## Tecnologias que eu uso no meu dia ###
 
@@ -16,4 +23,3 @@
      <img align="center" alt="Python 3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
      <img align="center" alt="Python 3" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
-
