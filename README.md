@@ -2,7 +2,11 @@
 
 ## Olá! Eu sou Raimundo Alexandre! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Python+Intermediário)](https://git.io/typing-svg)
+<div align="center">
+
+## Olá! Eu sou Raimundo Alexandre! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?multiline=true&lines=Desenvolvedor+Python+Intermedi%C3%A1rio)](https://git.io/typing-svg)
 
 Sou apaixonado por programação e estou em constante aprendizado! Atualmente, minha principal área de atuação é o desenvolvimento com Python, e estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades.
 
@@ -22,12 +26,14 @@ Estou em busca de aprimorar ainda mais minhas habilidades em desenvolvimento web
 
 ### 📫 Entre em Contato
 
-- LinkedIn: [linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/raimundo-alexandre-790189154)
+- LinkedIn: [linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
 - E-mail: seuemail@example.com
 
 Sinta-se à vontade para entrar em contato para discutir projetos, compartilhar conhecimentos ou apenas bater um papo sobre programação!
 
 Vamos aprender juntos! 🚀
+
+</div>
 
 
 
