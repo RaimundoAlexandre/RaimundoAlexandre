@@ -9,12 +9,9 @@
 ### 💻 Tecnologias e Ferramentas
 
 - Python (intermediário)
-- Django
-- Flask
 - JavaScript
 - React
 - Vue.js
-- Git
 
 ### 🌱 Próximos Passos
 
