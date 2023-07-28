@@ -1,14 +1,10 @@
 <img width="100%" src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-## Olá! Eu sou Raimundo Alexandre! 👋
-
 <div align="center">
 
 ## Olá! Eu sou Raimundo Alexandre! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?multiline=true&lines=Desenvolvedor+Python+Intermedi%C3%A1rio)](https://git.io/typing-svg)
-
-Sou apaixonado por programação e estou em constante aprendizado! Atualmente, minha principal área de atuação é o desenvolvimento com Python, e estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=3498db&size=22&width=500&height=50&lines=Desenvolvedor+Python+Intermedi%C3%A1rio;Apaixonado+por+programa%C3%A7%C3%A3o;Buscando+novos+desafios)](https://git.io/typing-svg)
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -26,7 +22,7 @@ Estou em busca de aprimorar ainda mais minhas habilidades em desenvolvimento web
 
 ### 📫 Entre em Contato
 
-- LinkedIn: [linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/raimundo-alexandre-790189154/)
 - E-mail: seuemail@example.com
 
 Sinta-se à vontade para entrar em contato para discutir projetos, compartilhar conhecimentos ou apenas bater um papo sobre programação!
