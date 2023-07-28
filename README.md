@@ -20,7 +20,7 @@ Estou em busca de aprimorar ainda mais minhas habilidades em desenvolvimento web
 ### 📫 Entre em Contato
 
 - [LinkedIn](https://www.linkedin.com/in/raimundo-alexandre-790189154/)
-- E-mail: seuemail@example.com
+- E-mail: r-alexandre-123@hotmail.com
 
 Sinta-se à vontade para entrar em contato para discutir projetos, compartilhar conhecimentos ou apenas bater um papo sobre programação!
 
