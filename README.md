@@ -51,5 +51,3 @@ Vamos aprender juntos! 🚀
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-![snake gif](https://github.com/RaimundoAlexandre/RaimundoAlexandre/blob/output/github-contribution-grid-snake.svg)
-
