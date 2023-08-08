@@ -9,7 +9,6 @@
 </div>
 
 
-
 ### 💻 Tecnologias e Ferramentas
 
 - Python
