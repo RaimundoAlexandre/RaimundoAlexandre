@@ -5,7 +5,7 @@
 ## Olá! Eu sou Raimundo Alexandre! 👋
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Francois+One&pause=1000&vCenter=true&width=435&separator=%3C&lines=Dev.+Python%2C+JavaScript%2C+HTML5%2C+e+CSS3%3C+Apaixonado+por+programa%C3%A7%C3%A3o;+Buscando+novos+desafios" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Francois+One&pause=1000&vCenter=true&width=435&lines=Dev.+Python%2C+JavaScript%2C+HTML5%2C+e+CSS3;+Apaixonado+por+programa%C3%A7%C3%A3o+;Buscando+novos+desafios" alt="Typing SVG" /></a>
 </div>
 
 
