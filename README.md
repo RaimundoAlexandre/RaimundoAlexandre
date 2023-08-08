@@ -4,7 +4,7 @@
 
 ## Olá! Eu sou Raimundo Alexandre! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=3498db&size=22&width=500&height=50&lines=Desenvolvedor+Python+Intermedi%C3%A1rio;Apaixonado+por+programa%C3%A7%C3%A3o;Buscando+novos+desafios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=3498db&size=22&width=500&height=50&lines=Desenvolvedor+Python;Apaixonado+por+programa%C3%A7%C3%A3o;Buscando+novos+desafios)](https://git.io/typing-svg)
 
 ### 💻 Tecnologias e Ferramentas
 
