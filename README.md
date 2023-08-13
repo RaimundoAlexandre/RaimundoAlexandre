@@ -8,15 +8,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Francois+One&pause=1000&vCenter=true&width=435&lines=Dev.+Python%2C+JavaScript%2C+HTML5%2C+e+CSS3;+Apaixonado+por+programa%C3%A7%C3%A3o+;Buscando+novos+desafios" alt="Typing SVG" /></a>
 </div>
 
-
-### 💻 Tecnologias e Ferramentas
-
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- Vue.js
-
 ### 🌱 Próximos Passos
 
 Estou em busca de aprimorar ainda mais minhas habilidades em desenvolvimento web e no ecossistema Python. Pretendo me aprofundar em aplicações web, aprendizado de máquina e aprimorar meu conhecimento em bancos de dados e arquitetura de software.
